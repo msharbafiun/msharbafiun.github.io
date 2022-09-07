@@ -27,21 +27,45 @@ Work experience
 * 2018-20: Administrative Department Employee
   * Hyperstar
 
-* 2015-18: Web Designer
+* 2018-Present: Home Appliances Store
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2013-15: Lecturer
+  * University of Isfahan
+
+* 2013-15: Web Designer
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* TSQL
+* NumPy
+* SciPY
+* ETL
+* Matplotlib
+* Data Analysis
+* B2B Marketing
+
+Programming Languages
+======
+* Python
+* Fortran
+* C++
+* HTML
+* MATLAB
+
+Software experience
+======
+* Plotly
+* MATLAB
+* Adobe Photoshop
+* Microsoft Office
+* Adobe Audition
+* Quantum ESPRESSO
+* PowerBI
+* xcrysden
+* Figma
+* Vtiger CRM
+* Gnuplot
 
 Publications
 ======
@@ -66,3 +90,6 @@ Teaching
 * 2014-16: HTML, CSS, Photoshop
   * Freelance
 
+Awards and achievements
+======================
+* Supported by the Iran’s National Elites Foundation (2020-2022).
