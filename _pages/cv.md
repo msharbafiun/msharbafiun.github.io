@@ -9,18 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+[**Download CV**](/files/Milad-Sharbafiun-CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering Physics, QUT, 2016 
+* M.S. in Condensed Matter Physics, University of Isfahan, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-Present: Data Scientist
+  * Decom Company
+
+* 2020-21: Merchandiser
+  * Maadiran Group
+
+* 2018-20: Administrative Department Employee
+  * Hyperstar
+
+* 2015-18: Web Designer
 
 * Fall 2015: Research Assistant
   * Github University
@@ -50,10 +57,12 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2018-19: Python
+  * University of Isfahan
+
+* 2017-18: Basic Physics I
+  * University of Isfahan
+
+* 2014-16: HTML, CSS, Photoshop
+  * Freelance
+
