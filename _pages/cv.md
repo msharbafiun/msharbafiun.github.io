@@ -13,8 +13,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering Physics, QUT, 2016 
 * M.S. in Condensed Matter Physics, University of Isfahan, 2018
+* B.S. in Engineering Physics, QUT, 2016 
+
 
 Work experience
 ======
@@ -81,14 +82,30 @@ Talks
   
 Teaching
 ======
-* 2018-19: Python
-  * University of Isfahan
+* Teacher, Fall 2018
+University of Isfahan
+Course: Python
 
-* 2017-18: Basic Physics I
-  * University of Isfahan
 
-* 2014-16: HTML, CSS, Photoshop
-  * Freelance
+* Teaching Assistant, Winter-Spring 2017
+University of Isfahan
+Course: Physics II for BS students
+
+
+* Teaching Assistant, Fall 2017
+University of Isfahan
+Course: Physics I for BS students
+
+
+* Teaching Assistant, Winter-Spring 2017
+University of Isfahan
+Course: Physics II for BS students
+
+
+* Teacher, 2014-2016
+Freelance
+Course: Physics I for BS students
+
 
 Awards and achievements
 ======================
