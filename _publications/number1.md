@@ -1,7 +1,7 @@
 ---
 title: "Tunable transmission due to defects in zigzag phosphorene nanoribbons"
 collection: publications
-permalink: /publication/number-1
+permalink: /publication/number1
 excerpt: ''
 date: 2019-4-26
 venue: 'EPL (Europhysics Letters)'
