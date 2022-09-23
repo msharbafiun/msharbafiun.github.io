@@ -1,0 +1,16 @@
+---
+title: "Two-impurity-entanglement generation by electron scattering in zigzag Phosphorene nanoribbons"
+collection: publications
+permalink: /publication/number2
+excerpt: ''
+date: 2019-02-02
+venue: 'Quantum Information Processing'
+paperurl: 'https://link.springer.com/article/10.1007/s11128-018-2170-9'
+---
+In this paper, we investigate how two on-site doped impurities with net magnetic moments in an edge chain of a zigzag phosphorene nanoribbon (zPNR) can be entangled by scattering of the traveling edge-state electrons. To this end, in the first step, we employ the Lippmann–Schwinger equation as well as the Green’s function approach to study the scattering of the free traveling electrons from two magnetic impurities in a one-dimensional tight-binding chain. Then, following the same formalism, that is shown that the behavior of two on-site spin impurities in the edge chain of a zPNR in responding to the scattering of the edge-state traveling electrons is very similar to what happens for the one-dimensional chain. In both cases, considering a known incoming wave state, the reflected and transmitted parts of the final wave state are evaluated analytically. Using the obtained results, the related partial density …
+
+Mohsen Amini, Morteza Soltani, Ebrahim Ghanbari-Adivi, M Sharbafiun
+
+[Download paper here](https://link.springer.com/article/10.1007/s11128-018-2170-9)
+
+
