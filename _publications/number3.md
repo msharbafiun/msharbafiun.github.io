@@ -2,6 +2,7 @@
 title: "Vacancy-induced Fano resonances in zigzag phosphorene nanoribbons"
 collection: publications
 permalink: /publication/number3
+excerpt: ''
 date: 2019-02-05
 venue: 'Physical Review B'
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085403'
