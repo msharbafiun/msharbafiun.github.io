@@ -87,7 +87,7 @@ University of Isfahan
 Course: Python
 
 
-* Teaching Assistant, Winter-Spring 2017
+* Teaching Assistant, Winter-Spring 2018
 University of Isfahan
 Course: Physics II for BS students
 
