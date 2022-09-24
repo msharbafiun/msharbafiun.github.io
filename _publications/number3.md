@@ -1,0 +1,13 @@
+---
+title: "Vacancy-induced Fano resonances in zigzag phosphorene nanoribbons"
+collection: publications
+permalink: /publication/number3
+date: 2019-02-05
+venue: 'Physical Review B'
+paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085403'
+---
+Motivated by recent scanning tunneling microscopy and spectroscopy experiments on probing single vacancies in black phosphorus, we present a theory for Fano antiresonances induced by coupling between vacancy states and edge states of zigzag phosphorene nanoribbons (zPNRs). To this end, in the first step, using the tight-binding Hamiltonian, we obtain an analytic solution on the lattice for the state associated with a single vacancy located in the bulk phosphorene which shows a highly anisotropic localization in real space. For a finite zigzag ribbon, in the absence of particle-hole symmetry, the localized state induced by vacancies can couple with the wave functions of the edge states, which results in the formation of a new bound state. The energy of the vacancy bound state lies inside the quasiflat band composed of edge states when the vacancy locates sufficiently far away from the edge. Then, we employ …
+
+M Amini, M Soltani, M Sharbafiun
+
+[Download paper here](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.085403)
