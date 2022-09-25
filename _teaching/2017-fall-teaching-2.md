@@ -21,4 +21,3 @@ Topics :
 - Equilibrium and Elasticity
 - Gravitation 
 - Oscillations
-
