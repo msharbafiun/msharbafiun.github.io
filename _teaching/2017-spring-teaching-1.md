@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2017-spring-teaching-1
 venue: "University of Isfahan, Physics Department"
-date: Winter-Spring 2017
+date: 2017-01-01
 location: "Isfahan, Iran"
 ---
 Topics :
